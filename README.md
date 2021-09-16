@@ -30,4 +30,6 @@ These pages contain the materials for MicM workshops.
 
 ## 2021 Series
 ### Winter
+
+[Python - Beyond the basics ]
 ### Fall (bootcamp)
