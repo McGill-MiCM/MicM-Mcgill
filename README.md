@@ -15,12 +15,14 @@ These pages contain the materials for MicM workshops.
 ## 2020 Series 
 ### Winter
 
-[Python - Beyond the basics]()
+[Python - Beyond the basics](https://github.com/McGill-MiCM/2020-Winter-Workshop-Series/blob/master/2020-02_MiCM_PythonWorkshop.pdf)
 
 [R - Beyond the basics](https://github.com/McGill-MiCM/R-Beyong-the-Basics/blob/master/README.md)
 
 ### Summer
-[Git - Github]()
+Git - Github :
+[Material](https://github.com/McGill-MiCM/2020-series-summer/blob/main/2020-06-03%20MiCM%20Workshop%20Git%20and%20Github%20Materials(1).pdf)
+[Slides](https://github.com/McGill-MiCM/2020-series-summer/blob/main/2020-06-03%20MiCM%20Workshop%20Git%20and%20Github%20Slides(1).pdf)
 
 [Precision Medicine principles]()
 
