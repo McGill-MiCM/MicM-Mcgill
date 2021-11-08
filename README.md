@@ -1,4 +1,4 @@
-# MicM-Mcgill
+# MicM-McGill
 
 
 These pages contain the materials for MicM workshops.
@@ -36,8 +36,11 @@ Git - Github :
 
 Python - Beyond the basics
 [Dimension reduction for biology data](https://github.com/McGill-MiCM/2021-winter/blob/main/Dimension%20reduction%20for%20biology%20data.pdf)
+
 [R for life sciences](https://github.com/McGill-MiCM/2021-winter/blob/main/R%20for%20Life%20sciences.pptx.pdf)
-Machine Learning introduction
+
+[Machine Learning introduction](https://github.com/McGill-MiCM/MiCM-introML-W21/blob/main/README.md)
+
 Linear models and anova:
 - Slides
 - [Data](https://github.com/McGill-MiCM/2021-winter/blob/main/Linear%20models%20and%20anova%20data.zip)
@@ -52,7 +55,10 @@ Quantitative Methods for Precision Medicine:
 
 
 ### Fall (bootcamp)
-Computational basics with Unix
-Visualization with R
-Bioinformatics databases with SQL
-Statistics with Python
+[Computational basics with Unix](https://github.com/McGill-MiCM/2021-fall-bootcamp-/blob/main/MiCM_UNIXbasics_092021_final.pdf)
+
+[Visualization with R](https://github.com/McGill-MiCM/2021-fall-bootcamp-/blob/main/Visualization_R.zip)
+
+[Bioinformatics databases with SQL](https://github.com/McGill-MiCM/2021-fall-bootcamp-/blob/main/2021-09-MiCM_DB_SQL.pdf)
+
+[Statistics with Python](https://github.com/abdelrahman-ayad/MiCM-StatsPython-F21/blob/main/README.md)
