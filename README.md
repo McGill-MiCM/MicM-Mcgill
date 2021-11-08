@@ -35,16 +35,20 @@ Git - Github :
 ### Winter
 
 Python - Beyond the basics
-Dimension reduction for biology data
-R for life sciences
+[Dimension reduction for biology data](https://github.com/McGill-MiCM/2021-winter/blob/main/Dimension%20reduction%20for%20biology%20data.pdf)
+[R for life sciences](https://github.com/McGill-MiCM/2021-winter/blob/main/R%20for%20Life%20sciences.pptx.pdf)
 Machine Learning introduction
-Linear models and anova
+Linear models and anova:
+- Slides
+- [Data](https://github.com/McGill-MiCM/2021-winter/blob/main/Linear%20models%20and%20anova%20data.zip)
 Introduction to single cell analysis concepts
 State-of-the-art methods for developing polygenic risk scores
 Data Wrangling in R and Julia
-Data Analysis in R: Overview of R Markdown and knit
+[Data Analysis in R: Overview of R Markdown and knit](https://github.com/McGill-MiCM/2021-winter/blob/main/MiCM_workshop_Data%20Analysis%20in%20R%20Overview%20of%20R%20Markdown%20and%20knitr.pptx.pdf)
 Introduction to Jupyter Notebooks and Bash: Fun with EEG
-Quantitative Methods for Precision Medicine
+Quantitative Methods for Precision Medicine:
+- Slides
+- [Data](https://github.com/McGill-MiCM/2021-winter/blob/main/Cancer%20Data.zip)
 
 
 ### Fall (bootcamp)
