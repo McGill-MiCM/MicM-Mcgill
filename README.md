@@ -49,7 +49,7 @@ These pages contain the materials for MicM workshops.
 [6. Introduction to single cell analysis concepts](https://github.com/McGill-MiCM/micm_singlecell/blob/master/README.md) *by Larisa Soto*
 
 7. State-of-the-art methods for developing polygenic risk scores  *by Tianyuan Lu*
-- [Slides: MiCM-Polygenic risk scores.pdf](https://github.com/McGill-MiCM/MiCM_PRS)
+- [Slides: MiCM-Polygenic risk scores.pdf](https://figshare.com/s/40cff94171c270e8ae7f.)
 - [Data](https://github.com/McGill-MiCM/MiCM_PRS)
 
 [8. Data Wrangling in R and Julia](https://github.com/SeanNesdoly/MiCM-Data-Wrangling-Workshop) *by Sean Nesdoly*
