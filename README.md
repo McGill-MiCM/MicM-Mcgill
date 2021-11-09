@@ -48,7 +48,7 @@ Linear models and anova:
 [Introduction to single cell analysis concepts](https://github.com/McGill-MiCM/micm_singlecell/blob/master/README.md)
 
 State-of-the-art methods for developing polygenic risk scores:
-- Slides
+- [Slides: MiCM-Polygenic risk scores.pdf](https://github.com/McGill-MiCM/MiCM_PRS)
 - [Data](https://github.com/McGill-MiCM/MiCM_PRS)
 
 [Data Wrangling in R and Julia](https://github.com/SeanNesdoly/MiCM-Data-Wrangling-Workshop)
@@ -56,9 +56,11 @@ State-of-the-art methods for developing polygenic risk scores:
 [Data Analysis in R: Overview of R Markdown and knit](https://github.com/McGill-MiCM/2021-winter/blob/main/MiCM_workshop_Data%20Analysis%20in%20R%20Overview%20of%20R%20Markdown%20and%20knitr.pptx.pdf)
 
 Introduction to Jupyter Notebooks and Bash: Fun with EEG
+- [Slides](https://github.com/McGill-MiCM/2021-winter/blob/main/Fun%20with%20EGG/MiCM_2021_notebook_full%20slides.pdf)
+- [Data](https://github.com/McGill-MiCM/2021-winter/tree/main/Fun%20with%20EGG)
 
 Quantitative Methods for Precision Medicine:
-- Slides
+- [Slides]
 - [Data](https://github.com/McGill-MiCM/2021-winter/blob/main/Cancer%20Data.zip)
 
 
