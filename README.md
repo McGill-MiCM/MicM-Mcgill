@@ -20,8 +20,9 @@ These pages contain the materials for MicM workshops.
 [2. R - Beyond the basics](https://github.com/McGill-MiCM/R-Beyong-the-Basics/blob/master/README.md) *by Yi Lian*
 
 ### Summer
-[1. Git - Github](https://github.com/McGill-MiCM/2020-series-summer/blob/main/2020-06-03%20MiCM%20Workshop%20Git%20and%20Github%20Slides(1).pdf)
-[Material](https://github.com/McGill-MiCM/2020-series-summer/blob/main/2020-06-03%20MiCM%20Workshop%20Git%20and%20Github%20Materials(1).pdf) 
+1. Git - Github *by Robert Syme*
+- [Slides](https://github.com/McGill-MiCM/2020-series-summer/blob/main/2020-06-03%20MiCM%20Workshop%20Git%20and%20Github%20Slides(1).pdf)
+- [Material](https://github.com/McGill-MiCM/2020-series-summer/blob/main/2020-06-03%20MiCM%20Workshop%20Git%20and%20Github%20Materials(1).pdf) 
 
 
 [2. Precision Medicine principles](https://github.com/McGill-MiCM/2020-series-summer/blob/main/PrecisionMedicinePrinciples.zip) *by Daniel Rodriguez Duque and Eric Rose*
