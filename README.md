@@ -8,14 +8,14 @@ These pages contain the materials for MicM workshops.
 
 [Data Visualization in R: Essentials and Optimization](https://github.com/McGill-MiCM/MICM_workshops) *by Octavia-Maria Dancu*
 
-[Data visualization (ggplot)](https://github.com/McGill-MiCM/Data-Visualization-Workshop) *by Eisha Ahmed *
+[Data visualization (ggplot)](https://github.com/McGill-MiCM/Data-Visualization-Workshop) *by Eisha Ahmed*
 
 [R Programming Beyond the Basics](https://github.com/McGill-MiCM/MiCM) *by Yi Lian*
 
 ## 2020 Series 
 ### Winter
 
-[Python - Beyond the basics](https://github.com/McGill-MiCM/2020-Winter-Workshop-Series/blob/master/2020-02_MiCM_PythonWorkshop.pdf) *by Eisha Ahmed *
+[Python - Beyond the basics](https://github.com/McGill-MiCM/2020-Winter-Workshop-Series/blob/master/2020-02_MiCM_PythonWorkshop.pdf) *by Eisha Ahmed*
 
 [R - Beyond the basics](https://github.com/McGill-MiCM/R-Beyong-the-Basics/blob/master/README.md) *by Yi Lian*
 
@@ -33,7 +33,7 @@ Git - Github  *by Robert Syme*
 ## 2021 Series
 ### Winter
 
-[Python - Beyond the basics](https://github.com/McGill-MiCM/2021-winter/blob/main/2020-02_MiCM_PythonWorkshop.pdf)  *by Eisha Ahmed *
+[Python - Beyond the basics](https://github.com/McGill-MiCM/2021-winter/blob/main/2020-02_MiCM_PythonWorkshop.pdf)  *by Eisha Ahmed*
 
 [Dimension reduction for biology data](https://github.com/McGill-MiCM/2021-winter/blob/main/Dimension%20reduction%20for%20biology%20data.pdf) *by Alex Diaz-Papkovich*
 
@@ -60,7 +60,7 @@ Introduction to Jupyter Notebooks and Bash: Fun with EEG *by Dylan Mann-Krzisnik
 - [Data](https://github.com/McGill-MiCM/2021-winter/tree/main/Fun%20with%20EGG)
 
 Quantitative Methods for Precision Medicine *by Daniel Rodriguez Duque and Eric Rose*
-- [Slides]
+- [Slides](https://github.com/McGill-MiCM/2021-winter/blob/main/%20Quantitative%20Methods%20for%20Precision%20Medicine.zip)
 - [Data](https://github.com/McGill-MiCM/2021-winter/blob/main/Cancer%20Data.zip)
 
 
@@ -69,6 +69,6 @@ Quantitative Methods for Precision Medicine *by Daniel Rodriguez Duque and Eric 
 
 [Visualization with R](https://github.com/McGill-MiCM/2021-fall-bootcamp-/blob/main/Visualization_R.zip) *by Octavia-Maria Dancu*
 
-[Bioinformatics databases with SQL](https://github.com/McGill-MiCM/2021-fall-bootcamp-/blob/main/2021-09-MiCM_DB_SQL.pdf)  *by Eisha Ahmed *
+[Bioinformatics databases with SQL](https://github.com/McGill-MiCM/2021-fall-bootcamp-/blob/main/2021-09-MiCM_DB_SQL.pdf)  *by Eisha Ahmed*
 
 [Statistics with Python](https://github.com/abdelrahman-ayad/MiCM-StatsPython-F21/blob/main/README.md) *by Abdelrahman Ayad*
