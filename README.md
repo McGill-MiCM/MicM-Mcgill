@@ -71,3 +71,7 @@ These pages contain the materials for MicM workshops.
 [3. Bioinformatics databases with SQL](https://github.com/McGill-MiCM/2021-fall-bootcamp-/blob/main/2021-09-MiCM_DB_SQL.pdf)  *by Eisha Ahmed*
 
 [4. Statistics with Python](https://github.com/abdelrahman-ayad/MiCM-StatsPython-F21/blob/main/README.md) *by Abdelrahman Ayad*
+
+## 2022 Series
+### Summer 
+* [MiCM 2022 Summer Series](https://mcgill-micm.github.io/Summer-Series-2022/)
