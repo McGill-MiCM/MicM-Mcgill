@@ -73,5 +73,18 @@ These pages contain the materials for MicM workshops.
 [4. Statistics with Python](https://github.com/abdelrahman-ayad/MiCM-StatsPython-F21/blob/main/README.md) *by Abdelrahman Ayad*
 
 ## 2022 Series
+
 ### Summer 
 * [MiCM 2022 Summer Series](https://mcgill-micm.github.io/Summer-Series-2022/)
+
+### Fall
+* [MiCM 2022 Fall Series](https://github.com/McGill-MiCM/Fall-series-2022)
+
+### Transcriptomics Bootcamp 2022
+* [Transcriptomic Bootcamp 2022](https://mcgill-micm.github.io/Transcriptomics-Bootcamp-2022/)
+
+## 2023 Series
+
+### Winter
+* [MicM 2023 Winter Series](https://github.com/McGill-MiCM/Winter-2023)
+
