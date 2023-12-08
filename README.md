@@ -1,35 +1,22 @@
 # MicM-McGill
+These pages contain the materials for all the past MicM workshops.
 
+## 2023 Series
 
-These pages contain the materials for MicM workshops.
-
-
-## 2019 Series
-
-[1.Data Visualization in R: Essentials and Optimization](https://github.com/McGill-MiCM/MICM_workshops) *by Octavia-Maria Dancu*
-
-[2.Data visualization (ggplot)](https://github.com/McGill-MiCM/Data-Visualization-Workshop) *by Eisha Ahmed*
-
-[3.R Programming Beyond the Basics](https://github.com/McGill-MiCM/MiCM) *by Yi Lian*
-
-## 2020 Series 
 ### Winter
+* [MicM 2023 Winter Series](https://github.com/McGill-MiCM/Winter-2023)
+  
+## 2022 Series
 
-[1. Python - Beyond the basics](https://github.com/McGill-MiCM/2020-Winter-Workshop-Series/blob/master/2020-02_MiCM_PythonWorkshop.pdf) *by Eisha Ahmed*
+### Summer 
+* [MiCM 2022 Summer Series](https://mcgill-micm.github.io/Summer-Series-2022/)
 
-[2. R - Beyond the basics](https://github.com/McGill-MiCM/R-Beyong-the-Basics/blob/master/README.md) *by Yi Lian*
+### Fall
+* [MiCM 2022 Fall Series](https://github.com/McGill-MiCM/Fall-series-2022)
 
-### Summer
-1. Git - Github *by Robert Syme*
-- [Slides](https://github.com/McGill-MiCM/2020-series-summer/blob/main/2020-06-03%20MiCM%20Workshop%20Git%20and%20Github%20Slides(1).pdf)
-- [Material](https://github.com/McGill-MiCM/2020-series-summer/blob/main/2020-06-03%20MiCM%20Workshop%20Git%20and%20Github%20Materials(1).pdf) 
+### Transcriptomics Bootcamp 2022
+* [Transcriptomic Bootcamp 2022](https://mcgill-micm.github.io/Transcriptomics-Bootcamp-2022/)
 
-
-[2. Precision Medicine principles](https://github.com/McGill-MiCM/2020-series-summer/blob/main/PrecisionMedicinePrinciples.zip) *by Daniel Rodriguez Duque and Eric Rose*
-
-[3. Clean and Reproducible Computational Projects with Nextflow](https://github.com/McGill-MiCM/2020-series-summer/blob/main/Computational%20Workflows.pdf) *by Robert Syme*
-
-[4. Dimension reduction methods](https://github.com/McGill-MiCM/2020-series-summer/blob/main/202006_dimension_reduction_workshop.pptx.pdf) *by Alex Diaz-Papkovich*
 
 ## 2021 Series
 ### Winter
@@ -72,19 +59,32 @@ These pages contain the materials for MicM workshops.
 
 [4. Statistics with Python](https://github.com/abdelrahman-ayad/MiCM-StatsPython-F21/blob/main/README.md) *by Abdelrahman Ayad*
 
-## 2022 Series
-
-### Summer 
-* [MiCM 2022 Summer Series](https://mcgill-micm.github.io/Summer-Series-2022/)
-
-### Fall
-* [MiCM 2022 Fall Series](https://github.com/McGill-MiCM/Fall-series-2022)
-
-### Transcriptomics Bootcamp 2022
-* [Transcriptomic Bootcamp 2022](https://mcgill-micm.github.io/Transcriptomics-Bootcamp-2022/)
-
-## 2023 Series
-
+## 2020 Series 
 ### Winter
-* [MicM 2023 Winter Series](https://github.com/McGill-MiCM/Winter-2023)
+
+[1. Python - Beyond the basics](https://github.com/McGill-MiCM/2020-Winter-Workshop-Series/blob/master/2020-02_MiCM_PythonWorkshop.pdf) *by Eisha Ahmed*
+
+[2. R - Beyond the basics](https://github.com/McGill-MiCM/R-Beyong-the-Basics/blob/master/README.md) *by Yi Lian*
+
+### Summer
+1. Git - Github *by Robert Syme*
+- [Slides](https://github.com/McGill-MiCM/2020-series-summer/blob/main/2020-06-03%20MiCM%20Workshop%20Git%20and%20Github%20Slides(1).pdf)
+- [Material](https://github.com/McGill-MiCM/2020-series-summer/blob/main/2020-06-03%20MiCM%20Workshop%20Git%20and%20Github%20Materials(1).pdf) 
+
+
+[2. Precision Medicine principles](https://github.com/McGill-MiCM/2020-series-summer/blob/main/PrecisionMedicinePrinciples.zip) *by Daniel Rodriguez Duque and Eric Rose*
+
+[3. Clean and Reproducible Computational Projects with Nextflow](https://github.com/McGill-MiCM/2020-series-summer/blob/main/Computational%20Workflows.pdf) *by Robert Syme*
+
+[4. Dimension reduction methods](https://github.com/McGill-MiCM/2020-series-summer/blob/main/202006_dimension_reduction_workshop.pptx.pdf) *by Alex Diaz-Papkovich*
+
+
+## 2019 Series
+
+[1.Data Visualization in R: Essentials and Optimization](https://github.com/McGill-MiCM/MICM_workshops) *by Octavia-Maria Dancu*
+
+[2.Data visualization (ggplot)](https://github.com/McGill-MiCM/Data-Visualization-Workshop) *by Eisha Ahmed*
+
+[3.R Programming Beyond the Basics](https://github.com/McGill-MiCM/MiCM) *by Yi Lian*
+
 
