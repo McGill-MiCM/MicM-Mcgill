@@ -5,13 +5,13 @@ These pages contains the materials for all the past MiCM workshops since 2019.
 ## 2023 Series
 
 #### Winter
-* [MicM 2023 Winter Series](https://github.com/McGill-MiCM/MiCM_Winter2023)
+* [MiCM 2023 Winter Series](https://github.com/McGill-MiCM/MiCM_Winter2023)
   
 #### Summer
-* [MicM 2023 Summer Series](https://github.com/McGill-MiCM/MiCM_Summer2023)
+* [MiCM 2023 Summer Series](https://github.com/McGill-MiCM/MiCM_Summer2023)
 
 #### Fall
-* [MicM 2023 Fall Series](https://github.com/McGill-MiCM/MiCM_Fall2023)
+* [MiCM 2023 Fall Series](https://github.com/McGill-MiCM/MiCM_Fall2023)
 
 #### MiCM x [openstatsware](https://rconsortium.github.io/asa-biop-swe-wg/) Bootcamp 2023
 * [Bootcamp 2023: Good Software Engineering Practices for R Packages](https://openpharma.github.io/workshop-r-swe-mtl/)
@@ -38,15 +38,15 @@ These pages contains the materials for all the past MiCM workshops since 2019.
 ## 2020 Series 
 
 #### Winter
-* [MicM 2020 Winter Series](https://github.com/McGill-MiCM/MiCM_Winter2020)
+* [MiCM 2020 Winter Series](https://github.com/McGill-MiCM/MiCM_Winter2020)
 
 #### Summer
-* [MicM 2020 Summer Series](https://github.com/McGill-MiCM/MiCM_Summer2020)
+* [MiCM 2020 Summer Series](https://github.com/McGill-MiCM/MiCM_Summer2020)
 
 ## 2019 Series
 
 #### Summer
-* [MicM 2019 Summer Series](https://github.com/McGill-MiCM/MiCM-Summer2019)
+* [MiCM 2019 Summer Series](https://github.com/McGill-MiCM/MiCM-Summer2019)
 
 ---
 
