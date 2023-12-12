@@ -10,7 +10,7 @@ These pages contains the materials for all the past MiCM workshops since 2019.
 ## 2022 Series
 
 #### Summer 
-* [MiCM 2022 Summer Series](https://mcgill-micm.github.io/MiCM_Summer2022/)
+* [MiCM 2022 Summer Series](https://github.com/McGill-MiCM/MiCM_Summer2022/)
 
 #### Fall
 * [MiCM 2022 Fall Series](https://github.com/McGill-MiCM/MiCM_Fall2022)
