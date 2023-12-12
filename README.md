@@ -9,18 +9,18 @@ These pages contains the materials for all the past MiCM workshops since 2019.
   
 ## 2022 Series
 
-### Summer 
+#### Summer 
 * [MiCM 2022 Summer Series](https://mcgill-micm.github.io/MiCM_Summer2022/)
 
-### Fall
+#### Fall
 * [MiCM 2022 Fall Series](https://github.com/McGill-MiCM/MiCM_Fall2022)
 
-### Transcriptomics Bootcamp 2022
+#### Transcriptomics Bootcamp 2022
 * [Transcriptomic Bootcamp 2022](https://mcgill-micm.github.io/Transcriptomics-Bootcamp-2022/)
 
 ## 2021 Series
 
-### Winter
+#### Winter
 * [MiCM 2021 Winter Series](https://github.com/McGill-MiCM/MiCM_Winter2021)
 
 ### Fall (bootcamp)
@@ -28,15 +28,15 @@ These pages contains the materials for all the past MiCM workshops since 2019.
 
 ## 2020 Series 
 
-### Winter
+#### Winter
 * [MicM 2020 Winter Series](https://github.com/McGill-MiCM/MiCM_Winter2020)
 
-### Summer
+#### Summer
 * [MicM 2020 Summer Series](https://github.com/McGill-MiCM/MiCM_Summer2020)
 
 ## 2019 Series
 
-### Summer
+#### Summer
 * [MicM 2019 Summer Series](https://github.com/McGill-MiCM/MiCM-Summer2019)
 
 ---
