@@ -41,3 +41,5 @@ These pages contains the materials for all the past MiCM workshops since 2019.
 
 
 #### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
+
+#### Go back to [main page](https://mcgill-micm.github.io/)
