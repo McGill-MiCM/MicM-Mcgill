@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/58442767/204903856-48c6178b-d553-416a-ad93-b864f48d73e7.png) 
+
 # MicM-McGill
 These pages contains the materials for all the past MiCM workshops since 2019.
 
@@ -28,10 +30,10 @@ These pages contains the materials for all the past MiCM workshops since 2019.
 ## 2020 Series 
 
 ### Winter
-*[MicM 2020 Winter Series](https://github.com/McGill-MiCM/MiCM_Winter2020)
+* [MicM 2020 Winter Series](https://github.com/McGill-MiCM/MiCM_Winter2020)
 
 ### Summer
-*[MicM 2020 Summer Series](https://github.com/McGill-MiCM/MiCM_Summer2020)
+* [MicM 2020 Summer Series](https://github.com/McGill-MiCM/MiCM_Summer2020)
 
 ## 2019 Series
 
