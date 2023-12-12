@@ -39,6 +39,7 @@ These pages contains the materials for all the past MiCM workshops since 2019.
 ### Summer
 * [MicM 2019 Summer Series](https://github.com/McGill-MiCM/MiCM-Summer2019)
 
+---
 
 #### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
 
