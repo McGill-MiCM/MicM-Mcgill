@@ -4,7 +4,7 @@ These pages contains the materials for all the past MiCM workshops since 2019.
 
 ## 2023 Series
 
-### Winter
+#### Winter
 * [MicM 2023 Winter Series](https://github.com/McGill-MiCM/MiCM_Winter2023)
   
 ## 2022 Series
@@ -23,7 +23,7 @@ These pages contains the materials for all the past MiCM workshops since 2019.
 #### Winter
 * [MiCM 2021 Winter Series](https://github.com/McGill-MiCM/MiCM_Winter2021)
 
-### Fall (bootcamp)
+#### Fall (bootcamp)
 * [Bioinformatics Bootcamp 2021](https://github.com/McGill-MiCM/2021-fall-bootcamp)
 
 ## 2020 Series 
